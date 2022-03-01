@@ -1,0 +1,11 @@
+5cd2b7dd3903cc4b353d0ebc168feecc *DESCRIPTION
+6f613da2effa831d7345dc0773356230 *NAMESPACE
+b54e22f9fe313f9ea037b13065cab81c *NEWS.md
+bb61c15d37ee7de0e8a5a6e33c91890b *R/refreshr.r
+2d85ad8655260621ea3b2679afe6e198 *README.md
+d9a150e8dc10b6d55073f07856e44d66 *man/is.refreshr.Rd
+38ccc9c3172cac9e99cfd065f92a636a *man/make_refreshable.Rd
+d2370ceed5b33d1c1c66afac4163817f *man/properties.Rd
+01f4bf59cb1e2371ecb7960bed0beaa9 *man/refresh.Rd
+8dca7d94366ce9aeb2fc0f1d9ea8c61d *man/refreshr.Rd
+4b8b626e55d39bb2449adbf7cd6f25fa *man/uptodate.Rd
